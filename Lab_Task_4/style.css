@@ -1,0 +1,31 @@
+    
+.f{
+    margin: auto;
+    height: 100%;
+    width:24%;
+    margin-top: 5%;
+    margin-left: 35%;
+    border-color: skyblue;
+
+}
+.button{
+    text-decoration: none;
+    text-align: center;
+    width:100%;
+    color: whitesmoke;
+    background-color: rgb(73,127,175);
+    border: 1px solid red;
+    padding: 5px;
+    
+}
+.textfield{
+                height: 40px;
+                
+            }
+
+            .body{
+                background-color:#E3ECE3;
+                
+            }
+       
+     </style> 
